@@ -1,0 +1,36 @@
+{
+  "region": "rosario-strait",
+  "description": "Crossing gates across the Rosario Strait shipping lane. Each gate is a line from end_a to end_b; a vessel 'arrives' when its track crosses the line.",
+  "collection_box": {
+    "comment": "AIS subscription box: Rosario Strait plus approaches (Cherry Point, Guemes Channel, south entrance).",
+    "south_west": [48.30, -123.00],
+    "north_east": [48.90, -122.50]
+  },
+  "gates": [
+    {
+      "id": "G1",
+      "name": "North Lummi - Clark Island",
+      "end_a": {"label": "North end of Lummi Island", "lat": 48.736165, "lon": -122.728234},
+      "end_b": {"label": "Clark Island", "lat": 48.700, "lon": -122.760}
+    },
+    {
+      "id": "G2",
+      "name": "North Cypress - Obstruction Pass",
+      "end_a": {"label": "North end of Cypress Island", "lat": 48.615, "lon": -122.705},
+      "end_b": {"label": "Obstruction Pass", "lat": 48.602209, "lon": -122.798225}
+    },
+    {
+      "id": "G3",
+      "name": "Washington Park - Lopez Pass",
+      "end_a": {"label": "Washington Park, Fidalgo Island", "lat": 48.497516, "lon": -122.710491},
+      "end_b": {"label": "Lopez Pass", "lat": 48.480, "lon": -122.810}
+    }
+  ],
+  "vessel_filter": {
+    "min_length_m": 100,
+    "ship_type_ranges": [[70, 79], [80, 89]],
+    "towing_ship_types": [31, 32],
+    "towing_nav_status": [11, 12],
+    "comment": "Cargo (70-79) and tankers (80-89) of at least min_length_m, plus any vessel reporting towing (type 31/32 or nav status 11/12) regardless of length. Tugs not towing, ferries and small craft are excluded."
+  }
+}
