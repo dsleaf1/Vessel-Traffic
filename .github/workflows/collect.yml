@@ -7,7 +7,7 @@ on:
     inputs:
       seconds:
         description: "Listening window in seconds"
-        default: "120"
+        default: "180"
 
 concurrency:
   group: collect
@@ -19,7 +19,7 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 9
     steps:
       - uses: actions/checkout@v4
 
@@ -33,10 +33,11 @@ jobs:
       - name: Listen to aisstream
         env:
           AISSTREAM_API_KEY: ${{ secrets.AISSTREAM_API_KEY }}
-          LISTEN_SECONDS: ${{ github.event.inputs.seconds || '120' }}
+          LISTEN_SECONDS: ${{ github.event.inputs.seconds || '180' }}
         run: python collector/collect.py --seconds "$LISTEN_SECONDS"
 
       - name: Commit data
+        if: always()   # save status.json even when the listen step failed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
