@@ -168,7 +168,21 @@ def append_positions(rows):
             w.writerows(day_rows)
 
 
+class StreamRejected(Exception):
+    """aisstream refused the subscription (e.g. bad API key); retrying won't help."""
+
+
+OPEN_TIMEOUT_S = 45       # aisstream can be slow to accept connections
+MAX_ATTEMPTS = 4
+RETRY_PAUSE_S = 10
+CONNECT_BUDGET_S = 180    # total time allowed for (re)connecting
+
+
 async def listen(api_key, box, seconds, snap):
+    """Listen for `seconds` of connected time, reconnecting on timeouts or drops.
+
+    Returns a list of connection problems seen (empty if none).
+    """
     import websockets  # installed in the workflow
 
     sub = {
@@ -177,29 +191,46 @@ async def listen(api_key, box, seconds, snap):
         "FilterMessageTypes": ["PositionReport", "ShipStaticData"],
     }
     loop = asyncio.get_running_loop()
-    end = loop.time() + seconds
-    async with websockets.connect(STREAM_URL, open_timeout=20) as ws:
-        await ws.send(json.dumps(sub))
-        while True:
-            remaining = end - loop.time()
-            if remaining <= 0:
-                break
-            try:
-                raw = await asyncio.wait_for(ws.recv(), timeout=remaining)
-            except asyncio.TimeoutError:
-                break
-            try:
-                msg = json.loads(raw)
-            except (ValueError, TypeError):
-                continue
-            if "error" in msg:
-                raise RuntimeError(f"aisstream error: {msg['error']}")
-            snap.handle(msg)
+    hard_stop = loop.time() + seconds + CONNECT_BUDGET_S
+    listened = 0.0
+    problems = []
+
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        if listened >= seconds or loop.time() >= hard_stop:
+            break
+        try:
+            async with websockets.connect(STREAM_URL, open_timeout=OPEN_TIMEOUT_S) as ws:
+                await ws.send(json.dumps(sub))
+                print(f"attempt {attempt}: connected", flush=True)
+                while listened < seconds and loop.time() < hard_stop:
+                    t0 = loop.time()
+                    budget = min(seconds - listened, hard_stop - t0)
+                    try:
+                        raw = await asyncio.wait_for(ws.recv(), timeout=budget)
+                    except asyncio.TimeoutError:
+                        listened += loop.time() - t0
+                        break
+                    listened += loop.time() - t0
+                    try:
+                        msg = json.loads(raw)
+                    except (ValueError, TypeError):
+                        continue
+                    if "error" in msg:
+                        raise StreamRejected(msg["error"])
+                    snap.handle(msg)
+        except StreamRejected:
+            raise
+        except Exception as e:
+            problems.append(f"attempt {attempt}: {type(e).__name__}: {e}")
+            print(problems[-1], flush=True)
+            if attempt < MAX_ATTEMPTS:
+                await asyncio.sleep(RETRY_PAUSE_S)
+    return problems
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--seconds", type=int, default=120)
+    ap.add_argument("--seconds", type=int, default=180)
     args = ap.parse_args()
 
     api_key = os.environ.get("AISSTREAM_API_KEY")
@@ -209,11 +240,13 @@ def main():
     cfg = load_config()
     snap = Snapshot(cfg["vessel_filter"], load_static())
     started = datetime.now(timezone.utc)
-    error = None
+    error, problems = None, []
     try:
-        asyncio.run(listen(api_key, cfg["collection_box"], args.seconds, snap))
+        problems = asyncio.run(listen(api_key, cfg["collection_box"], args.seconds, snap))
     except Exception as e:  # keep whatever was heard before the failure
         error = f"{type(e).__name__}: {e}"
+    if error is None and snap.msg_count == 0:
+        error = "no messages received" + (f" ({problems[-1]})" if problems else "")
 
     rows, summary = snap.kept_rows()
     append_positions(rows)
@@ -225,6 +258,7 @@ def main():
         "rows_saved": len(rows),
         "vessels": summary,
         "error": error,
+        "connection_problems": problems,
     })
     print(f"messages={snap.msg_count} rows_saved={len(rows)} vessels={summary} error={error}")
     if error and snap.msg_count == 0:

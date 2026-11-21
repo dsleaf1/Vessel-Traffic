@@ -9,7 +9,7 @@ Predicts large-vessel traffic for kayakers crossing shipping lanes in the Salish
 | Path | Purpose |
 |---|---|
 | `config/gates.json` | The three crossing gates (G1 North Lummi–Clark Island, G2 North Cypress–Obstruction Pass, G3 Washington Park–Lopez Pass), the AIS collection box, and the vessel filter |
-| `collector/collect.py` | Listens to aisstream.io for a short window and saves large-vessel positions |
+| `collector/collect.py` | Listens to aisstream.io for 3 minutes (retrying slow or dropped connections) and saves large-vessel positions |
 | `.github/workflows/collect.yml` | Runs the collector every 10 minutes and commits the data |
 | `data/positions/YYYY/MM/YYYY-MM-DD.csv` | Vessel positions (UTC), at most one row per vessel per 30 s |
 | `data/static/vessels.json` | Cached ship details by MMSI: type, length, name, destination |
