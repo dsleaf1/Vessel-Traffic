@@ -1,0 +1,145 @@
+{
+ "356696000": {
+  "destination": "US FDT",
+  "dimension": {
+   "A": 190,
+   "B": 38,
+   "C": 8,
+   "D": 24
+  },
+  "imo": 9730878,
+  "name": "CABO FUJI",
+  "type": 80,
+  "updated": "2026-11-21T22:33:23+00:00"
+ },
+ "366341000": {
+  "destination": "US OTS",
+  "dimension": {
+   "A": 196,
+   "B": 13,
+   "C": 14,
+   "D": 9
+  },
+  "imo": 9369423,
+  "name": "PRIDE",
+  "type": 89,
+  "updated": "2026-11-21T22:31:06+00:00"
+ },
+ "366772750": {
+  "destination": "",
+  "dimension": {
+   "A": 21,
+   "B": 95,
+   "C": 9,
+   "D": 13
+  },
+  "imo": 8835360,
+  "name": "WSF YAKIMA",
+  "type": 60,
+  "updated": "2026-11-21T22:31:17+00:00"
+ },
+ "366975190": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 6,
+   "B": 13,
+   "C": 4,
+   "D": 2
+  },
+  "imo": 0,
+  "name": "ROSARIO",
+  "type": 31,
+  "updated": "2026-11-21T22:32:07+00:00"
+ },
+ "367122330": {
+  "destination": "US BLI",
+  "dimension": {
+   "A": 13,
+   "B": 7,
+   "C": 0,
+   "D": 5
+  },
+  "imo": 0,
+  "name": "DAVID B",
+  "type": 60,
+  "updated": "2026-11-21T22:33:58+00:00"
+ },
+ "367389230": {
+  "destination": "THE OTHER SIDE",
+  "dimension": {
+   "A": 16,
+   "B": 22,
+   "C": 1,
+   "D": 12
+  },
+  "imo": 0,
+  "name": "GUEMES",
+  "type": 60,
+  "updated": "2026-11-21T22:32:23+00:00"
+ },
+ "367764750": {
+  "destination": "ANACORTES, WA",
+  "dimension": {
+   "A": 22,
+   "B": 60,
+   "C": 10,
+   "D": 7
+  },
+  "imo": 9838333,
+  "name": "AMER CONSTELLATION",
+  "type": 60,
+  "updated": "2026-11-21T22:33:56+00:00"
+ },
+ "367765000": {
+  "destination": "BELLINGHAM",
+  "dimension": {
+   "A": 17,
+   "B": 19,
+   "C": 4,
+   "D": 4
+  },
+  "imo": 0,
+  "name": "ZENITH",
+  "type": 30,
+  "updated": "2026-11-21T22:33:25+00:00"
+ },
+ "368049580": {
+  "destination": "USTAC",
+  "dimension": {
+   "A": 11,
+   "B": 20,
+   "C": 8,
+   "D": 2
+  },
+  "imo": 7128679,
+  "name": "NOLA GAIL",
+  "type": 31,
+  "updated": "2026-11-21T22:31:06+00:00"
+ },
+ "368414830": {
+  "destination": "BELLINGHAM",
+  "dimension": {
+   "A": 20,
+   "B": 5,
+   "C": 4,
+   "D": 6
+  },
+  "imo": 0,
+  "name": "NORTH POINT",
+  "type": 90,
+  "updated": "2026-11-21T22:33:27+00:00"
+ },
+ "369234000": {
+  "destination": "ANAC0RTES",
+  "dimension": {
+   "A": 11,
+   "B": 60,
+   "C": 11,
+   "D": 7
+  },
+  "imo": 9272060,
+  "name": "OCEAN GUARDIAN",
+  "type": 0,
+  "updated": "2026-11-21T22:31:04+00:00"
+ }
+}
