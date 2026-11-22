@@ -1,4 +1,17 @@
 {
+ "262500217": {
+  "destination": "",
+  "dimension": {
+   "A": 5,
+   "B": 5,
+   "C": 5,
+   "D": 5
+  },
+  "imo": 0,
+  "name": "BUOY 5-98%",
+  "type": 0,
+  "updated": "2026-11-22T17:43:10+00:00"
+ },
  "311001157": {
   "destination": "JPKWS>USFDT",
   "dimension": {
@@ -12,8 +25,21 @@
   "type": 80,
   "updated": "2026-11-22T02:15:28+00:00"
  },
+ "338110000": {
+  "destination": "USOTS",
+  "dimension": {
+   "A": 148,
+   "B": 35,
+   "C": 9,
+   "D": 23
+  },
+  "imo": 9704790,
+  "name": "LOUISIANA",
+  "type": 80,
+  "updated": "2026-11-22T17:42:45+00:00"
+ },
  "338221000": {
-  "destination": "ANACORTES WA",
+  "destination": "SAN FRANCISCO",
   "dimension": {
    "A": 148,
    "B": 35,
@@ -23,7 +49,7 @@
   "imo": 9353565,
   "name": "OVERSEAS BOSTON",
   "type": 80,
-  "updated": "2026-11-22T02:16:53+00:00"
+  "updated": "2026-11-22T17:41:37+00:00"
  },
  "356696000": {
   "destination": "US FDT",
@@ -49,7 +75,7 @@
   "imo": 9369423,
   "name": "PRIDE",
   "type": 89,
-  "updated": "2026-11-21T22:31:06+00:00"
+  "updated": "2026-11-22T17:43:07+00:00"
  },
  "366688750": {
   "destination": "EGEGIK",
@@ -63,6 +89,19 @@
   "name": "WESTWARD",
   "type": 30,
   "updated": "2026-11-22T02:16:39+00:00"
+ },
+ "366695810": {
+  "destination": "LOCAL SHIFTS",
+  "dimension": {
+   "A": 24,
+   "B": 0,
+   "C": 4,
+   "D": 5
+  },
+  "imo": 0,
+  "name": "WESTRAC II",
+  "type": 31,
+  "updated": "2026-11-22T17:42:23+00:00"
  },
  "366710820": {
   "destination": "WSF TERMINAL",
@@ -103,6 +142,19 @@
   "type": 0,
   "updated": "2026-11-22T09:58:16+00:00"
  },
+ "366936650": {
+  "destination": "SHELTER BAY",
+  "dimension": {
+   "A": 6,
+   "B": 12,
+   "C": 2,
+   "D": 4
+  },
+  "imo": 0,
+  "name": "NEREID",
+  "type": 37,
+  "updated": "2026-11-22T17:42:06+00:00"
+ },
  "366975190": {
   "destination": "ANACORTES",
   "dimension": {
@@ -142,6 +194,19 @@
   "type": 60,
   "updated": "2026-11-22T09:57:59+00:00"
  },
+ "367122990": {
+  "destination": "JUNEAU",
+  "dimension": {
+   "A": 15,
+   "B": 15,
+   "C": 4,
+   "D": 4
+  },
+  "imo": 0,
+  "name": "CRANE",
+  "type": 30,
+  "updated": "2026-11-22T17:43:33+00:00"
+ },
  "367313160": {
   "destination": "FRIDAY HARBOR,",
   "dimension": {
@@ -153,7 +218,20 @@
   "imo": 0,
   "name": "SAN JUAN ENTERPRISE",
   "type": 0,
-  "updated": "2026-11-22T02:16:59+00:00"
+  "updated": "2026-11-22T17:40:59+00:00"
+ },
+ "367347000": {
+  "destination": "ANACORTES,WA",
+  "dimension": {
+   "A": 20,
+   "B": 17,
+   "C": 1,
+   "D": 8
+  },
+  "imo": 641862500,
+  "name": "WENDY SEAA",
+  "type": 30,
+  "updated": "2026-11-22T17:43:06+00:00"
  },
  "367389230": {
   "destination": "THE OTHER SIDE",
@@ -181,6 +259,32 @@
   "type": 30,
   "updated": "2026-11-22T09:57:11+00:00"
  },
+ "367463310": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 9,
+   "B": 12,
+   "C": 3,
+   "D": 3
+  },
+  "imo": 0,
+  "name": "ZORRO",
+  "type": 37,
+  "updated": "2026-11-22T17:41:21+00:00"
+ },
+ "367499470": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 9,
+   "B": 10,
+   "C": 2,
+   "D": 3
+  },
+  "imo": 0,
+  "name": "SEA STAR 7",
+  "type": 0,
+  "updated": "2026-11-22T17:41:41+00:00"
+ },
  "367585560": {
   "destination": "ANACORTES/CAP SANTE",
   "dimension": {
@@ -193,6 +297,19 @@
   "name": "HENRY ISLAND",
   "type": 70,
   "updated": "2026-11-22T02:16:37+00:00"
+ },
+ "367741150": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 16,
+   "B": 12,
+   "C": 0,
+   "D": 5
+  },
+  "imo": 0,
+  "name": "DR MILTON WANER",
+  "type": 52,
+  "updated": "2026-11-22T17:41:37+00:00"
  },
  "367764750": {
   "destination": "ANACORTES, WA",
@@ -270,7 +387,33 @@
   "imo": 7128679,
   "name": "NOLA GAIL",
   "type": 31,
-  "updated": "2026-11-21T22:31:06+00:00"
+  "updated": "2026-11-22T17:43:07+00:00"
+ },
+ "368199130": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 22,
+   "B": 0,
+   "C": 3,
+   "D": 3
+  },
+  "imo": 0,
+  "name": "DAYBREAK",
+  "type": 37,
+  "updated": "2026-11-22T17:42:09+00:00"
+ },
+ "368321480": {
+  "destination": "BELLINGHAM",
+  "dimension": {
+   "A": 17,
+   "B": 0,
+   "C": 6,
+   "D": 0
+  },
+  "imo": 0,
+  "name": "DUTCHMAN",
+  "type": 30,
+  "updated": "2026-11-22T17:43:03+00:00"
  },
  "368414830": {
   "destination": "BELLINGHAM",
@@ -285,6 +428,19 @@
   "type": 90,
   "updated": "2026-11-22T09:57:29+00:00"
  },
+ "368526000": {
+  "destination": "",
+  "dimension": {
+   "A": 40,
+   "B": 10,
+   "C": 5,
+   "D": 5
+  },
+  "imo": 7809455,
+  "name": "PATRICIA_LEE",
+  "type": 30,
+  "updated": "2026-11-22T17:41:43+00:00"
+ },
  "369037000": {
   "destination": "ANACORTES, WA",
   "dimension": {
@@ -296,7 +452,20 @@
   "imo": 9704788,
   "name": "TEXAS",
   "type": 80,
-  "updated": "2026-11-22T09:55:53+00:00"
+  "updated": "2026-11-22T17:43:52+00:00"
+ },
+ "369202000": {
+  "destination": "ANACORTES, WA",
+  "dimension": {
+   "A": 10,
+   "B": 69,
+   "C": 15,
+   "D": 3
+  },
+  "imo": 9281396,
+  "name": "OCEAN VALOR",
+  "type": 90,
+  "updated": "2026-11-22T17:42:47+00:00"
  },
  "369234000": {
   "destination": "ANAC0RTES",
@@ -323,5 +492,31 @@
   "name": "GULF TITAN",
   "type": 32,
   "updated": "2026-11-22T02:14:36+00:00"
+ },
+ "563269500": {
+  "destination": "US OTS",
+  "dimension": {
+   "A": 156,
+   "B": 27,
+   "C": 21,
+   "D": 11
+  },
+  "imo": 1014008,
+  "name": "JAL KALP",
+  "type": 80,
+  "updated": "2026-11-22T17:41:32+00:00"
+ },
+ "636093177": {
+  "destination": "CAPRR>CAVAN",
+  "dimension": {
+   "A": 242,
+   "B": 94,
+   "C": 27,
+   "D": 16
+  },
+  "imo": 9320702,
+  "name": "TSINGTAO EXPRESS",
+  "type": 71,
+  "updated": "2026-11-22T17:42:11+00:00"
  }
 }
