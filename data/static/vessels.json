@@ -36,7 +36,7 @@
   "imo": 9704790,
   "name": "LOUISIANA",
   "type": 80,
-  "updated": "2026-11-22T17:42:45+00:00"
+  "updated": "2026-11-22T22:54:46+00:00"
  },
  "338221000": {
   "destination": "SAN FRANCISCO",
@@ -88,7 +88,7 @@
   "imo": 7308322,
   "name": "WESTWARD",
   "type": 30,
-  "updated": "2026-11-22T02:16:39+00:00"
+  "updated": "2026-11-22T22:52:42+00:00"
  },
  "366695810": {
   "destination": "LOCAL SHIFTS",
@@ -127,7 +127,7 @@
   "imo": 9070254,
   "name": "LINDSEY FOSS",
   "type": 52,
-  "updated": "2026-11-22T09:57:59+00:00"
+  "updated": "2026-11-22T22:53:04+00:00"
  },
  "366772750": {
   "destination": "",
@@ -218,7 +218,7 @@
   "imo": 0,
   "name": "SAN JUAN ENTERPRISE",
   "type": 0,
-  "updated": "2026-11-22T17:40:59+00:00"
+  "updated": "2026-11-22T22:53:00+00:00"
  },
  "367347000": {
   "destination": "ANACORTES,WA",
@@ -231,7 +231,7 @@
   "imo": 641862500,
   "name": "WENDY SEAA",
   "type": 30,
-  "updated": "2026-11-22T17:43:06+00:00"
+  "updated": "2026-11-22T22:55:03+00:00"
  },
  "367389230": {
   "destination": "THE OTHER SIDE",
@@ -270,7 +270,7 @@
   "imo": 0,
   "name": "ZORRO",
   "type": 37,
-  "updated": "2026-11-22T17:41:21+00:00"
+  "updated": "2026-11-22T22:53:22+00:00"
  },
  "367499470": {
   "destination": "ANACORTES",
@@ -296,7 +296,20 @@
   "imo": 0,
   "name": "HENRY ISLAND",
   "type": 70,
-  "updated": "2026-11-22T02:16:37+00:00"
+  "updated": "2026-11-22T22:52:39+00:00"
+ },
+ "367677130": {
+  "destination": "US ANA",
+  "dimension": {
+   "A": 132,
+   "B": 21,
+   "C": 12,
+   "D": 12
+  },
+  "imo": 9792785,
+  "name": "BARRY SILVERTON",
+  "type": 57,
+  "updated": "2026-11-22T22:52:41+00:00"
  },
  "367741150": {
   "destination": "ANACORTES",
@@ -309,7 +322,7 @@
   "imo": 0,
   "name": "DR MILTON WANER",
   "type": 52,
-  "updated": "2026-11-22T17:41:37+00:00"
+  "updated": "2026-11-22T22:53:36+00:00"
  },
  "367764750": {
   "destination": "ANACORTES, WA",
@@ -389,6 +402,19 @@
   "type": 31,
   "updated": "2026-11-22T17:43:07+00:00"
  },
+ "368170760": {
+  "destination": "AK",
+  "dimension": {
+   "A": 8,
+   "B": 11,
+   "C": 3,
+   "D": 3
+  },
+  "imo": 0,
+  "name": "GALLIVANT",
+  "type": 37,
+  "updated": "2026-11-22T22:52:55+00:00"
+ },
  "368199130": {
   "destination": "ANACORTES",
   "dimension": {
@@ -400,7 +426,20 @@
   "imo": 0,
   "name": "DAYBREAK",
   "type": 37,
-  "updated": "2026-11-22T17:42:09+00:00"
+  "updated": "2026-11-22T22:54:07+00:00"
+ },
+ "368240710": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 13,
+   "B": 14,
+   "C": 6,
+   "D": 1
+  },
+  "imo": 0,
+  "name": "DIVERTIMENTO",
+  "type": 37,
+  "updated": "2026-11-22T22:53:09+00:00"
  },
  "368321480": {
   "destination": "BELLINGHAM",
@@ -413,7 +452,7 @@
   "imo": 0,
   "name": "DUTCHMAN",
   "type": 30,
-  "updated": "2026-11-22T17:43:03+00:00"
+  "updated": "2026-11-22T22:55:01+00:00"
  },
  "368414830": {
   "destination": "BELLINGHAM",
@@ -465,7 +504,7 @@
   "imo": 9281396,
   "name": "OCEAN VALOR",
   "type": 90,
-  "updated": "2026-11-22T17:42:47+00:00"
+  "updated": "2026-11-22T22:54:47+00:00"
  },
  "369234000": {
   "destination": "ANAC0RTES",
@@ -493,6 +532,19 @@
   "type": 32,
   "updated": "2026-11-22T02:14:36+00:00"
  },
+ "563080300": {
+  "destination": "USOTS",
+  "dimension": {
+   "A": 178,
+   "B": 21,
+   "C": 11,
+   "D": 21
+  },
+  "imo": 9859313,
+  "name": "CD CALLAO",
+  "type": 70,
+  "updated": "2026-11-22T22:52:28+00:00"
+ },
  "563269500": {
   "destination": "US OTS",
   "dimension": {
@@ -504,7 +556,7 @@
   "imo": 1014008,
   "name": "JAL KALP",
   "type": 80,
-  "updated": "2026-11-22T17:41:32+00:00"
+  "updated": "2026-11-22T22:53:32+00:00"
  },
  "636093177": {
   "destination": "CAPRR>CAVAN",
