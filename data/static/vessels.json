@@ -1,4 +1,30 @@
 {
+ "311001157": {
+  "destination": "JPKWS>USFDT",
+  "dimension": {
+   "A": 178,
+   "B": 51,
+   "C": 23,
+   "D": 14
+  },
+  "imo": 9939917,
+  "name": "CAPTAIN MARKOS",
+  "type": 80,
+  "updated": "2026-11-22T02:15:28+00:00"
+ },
+ "338221000": {
+  "destination": "ANACORTES WA",
+  "dimension": {
+   "A": 148,
+   "B": 35,
+   "C": 11,
+   "D": 21
+  },
+  "imo": 9353565,
+  "name": "OVERSEAS BOSTON",
+  "type": 80,
+  "updated": "2026-11-22T02:16:53+00:00"
+ },
  "356696000": {
   "destination": "US FDT",
   "dimension": {
@@ -10,7 +36,7 @@
   "imo": 9730878,
   "name": "CABO FUJI",
   "type": 80,
-  "updated": "2026-11-21T22:33:23+00:00"
+  "updated": "2026-11-22T02:15:13+00:00"
  },
  "366341000": {
   "destination": "US OTS",
@@ -24,6 +50,32 @@
   "name": "PRIDE",
   "type": 89,
   "updated": "2026-11-21T22:31:06+00:00"
+ },
+ "366688750": {
+  "destination": "EGEGIK",
+  "dimension": {
+   "A": 19,
+   "B": 6,
+   "C": 2,
+   "D": 6
+  },
+  "imo": 7308322,
+  "name": "WESTWARD",
+  "type": 30,
+  "updated": "2026-11-22T02:16:39+00:00"
+ },
+ "366710820": {
+  "destination": "WSF TERMINAL",
+  "dimension": {
+   "A": 23,
+   "B": 77,
+   "C": 14,
+   "D": 10
+  },
+  "imo": 7808152,
+  "name": "WSF SEALTH",
+  "type": 60,
+  "updated": "2026-11-22T02:17:24+00:00"
  },
  "366772750": {
   "destination": "",
@@ -51,6 +103,19 @@
   "type": 31,
   "updated": "2026-11-21T22:32:07+00:00"
  },
+ "367048390": {
+  "destination": "PT TOWNSEND",
+  "dimension": {
+   "A": 6,
+   "B": 17,
+   "C": 5,
+   "D": 1
+  },
+  "imo": 0,
+  "name": "KARLUK",
+  "type": 30,
+  "updated": "2026-11-22T02:17:13+00:00"
+ },
  "367122330": {
   "destination": "US BLI",
   "dimension": {
@@ -64,6 +129,19 @@
   "type": 60,
   "updated": "2026-11-21T22:33:58+00:00"
  },
+ "367313160": {
+  "destination": "FRIDAY HARBOR,",
+  "dimension": {
+   "A": 23,
+   "B": 7,
+   "C": 3,
+   "D": 4
+  },
+  "imo": 0,
+  "name": "SAN JUAN ENTERPRISE",
+  "type": 0,
+  "updated": "2026-11-22T02:16:59+00:00"
+ },
  "367389230": {
   "destination": "THE OTHER SIDE",
   "dimension": {
@@ -76,6 +154,19 @@
   "name": "GUEMES",
   "type": 60,
   "updated": "2026-11-21T22:32:23+00:00"
+ },
+ "367585560": {
+  "destination": "ANACORTES/CAP SANTE",
+  "dimension": {
+   "A": 15,
+   "B": 5,
+   "C": 3,
+   "D": 4
+  },
+  "imo": 0,
+  "name": "HENRY ISLAND",
+  "type": 70,
+  "updated": "2026-11-22T02:16:37+00:00"
  },
  "367764750": {
   "destination": "ANACORTES, WA",
@@ -103,6 +194,32 @@
   "type": 30,
   "updated": "2026-11-21T22:33:25+00:00"
  },
+ "367786240": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 14,
+   "B": 6,
+   "C": 3,
+   "D": 3
+  },
+  "imo": 0,
+  "name": "SEA BEAR",
+  "type": 37,
+  "updated": "2026-11-22T02:16:53+00:00"
+ },
+ "368042310": {
+  "destination": "BELINGHAM",
+  "dimension": {
+   "A": 3,
+   "B": 17,
+   "C": 3,
+   "D": 3
+  },
+  "imo": 0,
+  "name": "VOYAGER",
+  "type": 30,
+  "updated": "2026-11-22T02:16:51+00:00"
+ },
  "368049580": {
   "destination": "USTAC",
   "dimension": {
@@ -127,7 +244,7 @@
   "imo": 0,
   "name": "NORTH POINT",
   "type": 90,
-  "updated": "2026-11-21T22:33:27+00:00"
+  "updated": "2026-11-22T02:15:33+00:00"
  },
  "369234000": {
   "destination": "ANAC0RTES",
@@ -141,5 +258,18 @@
   "name": "OCEAN GUARDIAN",
   "type": 0,
   "updated": "2026-11-21T22:31:04+00:00"
+ },
+ "369514000": {
+  "destination": "SEATTLE",
+  "dimension": {
+   "A": 15,
+   "B": 25,
+   "C": 2,
+   "D": 9
+  },
+  "imo": 8967589,
+  "name": "GULF TITAN",
+  "type": 32,
+  "updated": "2026-11-22T02:14:36+00:00"
  }
 }
