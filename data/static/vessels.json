@@ -62,7 +62,7 @@
   "imo": 9730878,
   "name": "CABO FUJI",
   "type": 80,
-  "updated": "2026-11-22T02:15:13+00:00"
+  "updated": "2026-11-23T13:39:13+00:00"
  },
  "366341000": {
   "destination": "US OTS",
@@ -192,7 +192,7 @@
   "imo": 0,
   "name": "KARLUK",
   "type": 30,
-  "updated": "2026-11-22T02:17:13+00:00"
+  "updated": "2026-11-23T13:41:09+00:00"
  },
  "367122330": {
   "destination": "US BLI",
@@ -220,6 +220,19 @@
   "type": 30,
   "updated": "2026-11-23T03:37:38+00:00"
  },
+ "367124390": {
+  "destination": "NEPUNE BEACH",
+  "dimension": {
+   "A": 9,
+   "B": 27,
+   "C": 4,
+   "D": 5
+  },
+  "imo": 8978485,
+  "name": "NRC COLUMBIA",
+  "type": 54,
+  "updated": "2026-11-23T13:40:57+00:00"
+ },
  "367313160": {
   "destination": "FRIDAY HARBOR,",
   "dimension": {
@@ -231,7 +244,7 @@
   "imo": 0,
   "name": "SAN JUAN ENTERPRISE",
   "type": 0,
-  "updated": "2026-11-22T22:53:00+00:00"
+  "updated": "2026-11-23T13:41:02+00:00"
  },
  "367347000": {
   "destination": "ANACORTES,WA",
@@ -309,7 +322,7 @@
   "imo": 0,
   "name": "HENRY ISLAND",
   "type": 70,
-  "updated": "2026-11-22T22:52:39+00:00"
+  "updated": "2026-11-23T13:40:42+00:00"
  },
  "367677130": {
   "destination": "US ANA",
@@ -348,7 +361,7 @@
   "imo": 9838333,
   "name": "AMER CONSTELLATION",
   "type": 60,
-  "updated": "2026-11-21T22:33:56+00:00"
+  "updated": "2026-11-23T13:39:59+00:00"
  },
  "367765000": {
   "destination": "BELLINGHAM",
@@ -361,7 +374,7 @@
   "imo": 0,
   "name": "ZENITH",
   "type": 30,
-  "updated": "2026-11-21T22:33:25+00:00"
+  "updated": "2026-11-23T13:39:54+00:00"
  },
  "367786240": {
   "destination": "ANACORTES",
@@ -374,7 +387,7 @@
   "imo": 0,
   "name": "SEA BEAR",
   "type": 37,
-  "updated": "2026-11-22T02:16:53+00:00"
+  "updated": "2026-11-23T13:40:53+00:00"
  },
  "368004090": {
   "destination": "ANACORTES",
@@ -388,6 +401,19 @@
   "name": "NORDLAND II",
   "type": 69,
   "updated": "2026-11-22T09:56:12+00:00"
+ },
+ "368013040": {
+  "destination": "ELLIOTT BAY",
+  "dimension": {
+   "A": 138,
+   "B": 24,
+   "C": 12,
+   "D": 12
+  },
+  "imo": 9840740,
+  "name": "TODD E PROPHET",
+  "type": 31,
+  "updated": "2026-11-23T13:41:26+00:00"
  },
  "368042310": {
   "destination": "BELINGHAM",
@@ -452,7 +478,7 @@
   "imo": 0,
   "name": "DIVERTIMENTO",
   "type": 37,
-  "updated": "2026-11-22T22:53:09+00:00"
+  "updated": "2026-11-23T13:41:09+00:00"
  },
  "368321480": {
   "destination": "BELLINGHAM",
