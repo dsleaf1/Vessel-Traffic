@@ -75,7 +75,7 @@
   "imo": 9369423,
   "name": "PRIDE",
   "type": 89,
-  "updated": "2026-11-23T03:37:08+00:00"
+  "updated": "2026-11-24T11:07:12+00:00"
  },
  "366688750": {
   "destination": "EGEGIK",
@@ -218,7 +218,7 @@
   "imo": 0,
   "name": "CRANE",
   "type": 30,
-  "updated": "2026-11-23T03:37:38+00:00"
+  "updated": "2026-11-24T11:07:36+00:00"
  },
  "367124390": {
   "destination": "NEPUNE BEACH",
@@ -283,7 +283,7 @@
   "imo": 0,
   "name": "GUEMES",
   "type": 60,
-  "updated": "2026-11-23T03:38:27+00:00"
+  "updated": "2026-11-24T11:08:29+00:00"
  },
  "367434290": {
   "destination": "-",
@@ -441,6 +441,19 @@
   "type": 31,
   "updated": "2026-11-23T13:41:26+00:00"
  },
+ "368037000": {
+  "destination": "PIER 25 TACOMA WA",
+  "dimension": {
+   "A": 29,
+   "B": 70,
+   "C": 7,
+   "D": 7
+  },
+  "imo": 7710721,
+  "name": "ISLAND ENTERPRISE",
+  "type": 30,
+  "updated": "2026-11-24T11:06:54+00:00"
+ },
  "368042310": {
   "destination": "BELINGHAM",
   "dimension": {
@@ -517,7 +530,7 @@
   "imo": 0,
   "name": "DUTCHMAN",
   "type": 30,
-  "updated": "2026-11-23T03:37:05+00:00"
+  "updated": "2026-11-24T11:07:07+00:00"
  },
  "368414830": {
   "destination": "BELLINGHAM",
@@ -531,6 +544,19 @@
   "name": "NORTH POINT",
   "type": 90,
   "updated": "2026-11-22T09:57:29+00:00"
+ },
+ "368430490": {
+  "destination": "US^0U5S>02JK",
+  "dimension": {
+   "A": 20,
+   "B": 20,
+   "C": 7,
+   "D": 7
+  },
+  "imo": 9258806,
+  "name": "TUG RESPONSE",
+  "type": 52,
+  "updated": "2026-11-24T11:08:27+00:00"
  },
  "368526000": {
   "destination": "",
@@ -596,6 +622,19 @@
   "name": "GULF TITAN",
   "type": 32,
   "updated": "2026-11-22T02:14:36+00:00"
+ },
+ "369702000": {
+  "destination": "USOTS",
+  "dimension": {
+   "A": 156,
+   "B": 28,
+   "C": 18,
+   "D": 6
+  },
+  "imo": 9271119,
+  "name": "COASTAL RELIANCE",
+  "type": 89,
+  "updated": "2026-11-24T11:08:13+00:00"
  },
  "563080300": {
   "destination": "USOTS",
