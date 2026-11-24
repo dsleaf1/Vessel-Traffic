@@ -88,7 +88,7 @@
   "imo": 7308322,
   "name": "WESTWARD",
   "type": 30,
-  "updated": "2026-11-22T22:52:42+00:00"
+  "updated": "2026-11-24T01:16:46+00:00"
  },
  "366695810": {
   "destination": "LOCAL SHIFTS",
@@ -205,7 +205,7 @@
   "imo": 0,
   "name": "DAVID B",
   "type": 60,
-  "updated": "2026-11-22T09:57:59+00:00"
+  "updated": "2026-11-24T01:16:09+00:00"
  },
  "367122990": {
   "destination": "JUNEAU",
@@ -233,8 +233,21 @@
   "type": 54,
   "updated": "2026-11-23T13:40:57+00:00"
  },
+ "367144000": {
+  "destination": "KETCHIKAN",
+  "dimension": {
+   "A": 31,
+   "B": 96,
+   "C": 13,
+   "D": 13
+  },
+  "imo": 7320095,
+  "name": "COLUMBIA",
+  "type": 60,
+  "updated": "2026-11-24T01:16:18+00:00"
+ },
  "367313160": {
-  "destination": "FRIDAY HARBOR,",
+  "destination": "ANACORTES",
   "dimension": {
    "A": 23,
    "B": 7,
@@ -244,7 +257,7 @@
   "imo": 0,
   "name": "SAN JUAN ENTERPRISE",
   "type": 0,
-  "updated": "2026-11-23T13:41:02+00:00"
+  "updated": "2026-11-24T01:15:11+00:00"
  },
  "367347000": {
   "destination": "ANACORTES,WA",
@@ -296,7 +309,7 @@
   "imo": 0,
   "name": "ZORRO",
   "type": 37,
-  "updated": "2026-11-22T22:53:22+00:00"
+  "updated": "2026-11-24T01:17:24+00:00"
  },
  "367499470": {
   "destination": "ANACORTES",
@@ -335,7 +348,20 @@
   "imo": 9792785,
   "name": "BARRY SILVERTON",
   "type": 57,
-  "updated": "2026-11-22T22:52:41+00:00"
+  "updated": "2026-11-24T01:16:42+00:00"
+ },
+ "367705050": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 10,
+   "B": 20,
+   "C": 5,
+   "D": 5
+  },
+  "imo": 0,
+  "name": "C E",
+  "type": 31,
+  "updated": "2026-11-24T01:17:36+00:00"
  },
  "367741150": {
   "destination": "ANACORTES",
@@ -361,7 +387,7 @@
   "imo": 9838333,
   "name": "AMER CONSTELLATION",
   "type": 60,
-  "updated": "2026-11-23T13:39:59+00:00"
+  "updated": "2026-11-24T01:15:59+00:00"
  },
  "367765000": {
   "destination": "BELLINGHAM",
@@ -400,7 +426,7 @@
   "imo": 0,
   "name": "NORDLAND II",
   "type": 69,
-  "updated": "2026-11-22T09:56:12+00:00"
+  "updated": "2026-11-24T01:15:43+00:00"
  },
  "368013040": {
   "destination": "ELLIOTT BAY",
