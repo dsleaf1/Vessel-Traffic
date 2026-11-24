@@ -51,6 +51,19 @@
   "type": 80,
   "updated": "2026-11-22T17:41:37+00:00"
  },
+ "338616000": {
+  "destination": "US OTS",
+  "dimension": {
+   "A": 184,
+   "B": 20,
+   "C": 12,
+   "D": 12
+  },
+  "imo": 9492684,
+  "name": "DUBLIN SEA",
+  "type": 57,
+  "updated": "2026-11-24T21:10:47+00:00"
+ },
  "356696000": {
   "destination": "US FDT",
   "dimension": {
@@ -65,7 +78,7 @@
   "updated": "2026-11-23T13:39:13+00:00"
  },
  "366341000": {
-  "destination": "US OTS",
+  "destination": "US CLM",
   "dimension": {
    "A": 196,
    "B": 13,
@@ -75,7 +88,7 @@
   "imo": 9369423,
   "name": "PRIDE",
   "type": 89,
-  "updated": "2026-11-24T11:07:12+00:00"
+  "updated": "2026-11-24T21:11:27+00:00"
  },
  "366688750": {
   "destination": "EGEGIK",
@@ -101,7 +114,7 @@
   "imo": 0,
   "name": "WESTRAC II",
   "type": 31,
-  "updated": "2026-11-22T17:42:23+00:00"
+  "updated": "2026-11-24T21:12:23+00:00"
  },
  "366710820": {
   "destination": "WSF TERMINAL",
@@ -115,6 +128,19 @@
   "name": "WSF SEALTH",
   "type": 60,
   "updated": "2026-11-22T02:17:24+00:00"
+ },
+ "366767140": {
+  "destination": "NORTH SOUND OPS",
+  "dimension": {
+   "A": 26,
+   "B": 21,
+   "C": 6,
+   "D": 8
+  },
+  "imo": 9070266,
+  "name": "GARTH FOSS",
+  "type": 31,
+  "updated": "2026-11-24T21:11:24+00:00"
  },
  "366767150": {
   "destination": "PUGET SOUND OPS",
@@ -140,7 +166,7 @@
   "imo": 8835360,
   "name": "WSF YAKIMA",
   "type": 0,
-  "updated": "2026-11-22T09:58:16+00:00"
+  "updated": "2026-11-24T21:10:16+00:00"
  },
  "366773090": {
   "destination": "",
@@ -192,7 +218,7 @@
   "imo": 0,
   "name": "KARLUK",
   "type": 30,
-  "updated": "2026-11-23T13:41:09+00:00"
+  "updated": "2026-11-24T21:11:19+00:00"
  },
  "367122330": {
   "destination": "US BLI",
@@ -244,7 +270,7 @@
   "imo": 7320095,
   "name": "COLUMBIA",
   "type": 60,
-  "updated": "2026-11-24T01:16:18+00:00"
+  "updated": "2026-11-24T21:11:10+00:00"
  },
  "367313160": {
   "destination": "ANACORTES",
@@ -309,7 +335,7 @@
   "imo": 0,
   "name": "ZORRO",
   "type": 37,
-  "updated": "2026-11-24T01:17:24+00:00"
+  "updated": "2026-11-24T21:11:25+00:00"
  },
  "367499470": {
   "destination": "ANACORTES",
@@ -387,7 +413,7 @@
   "imo": 9838333,
   "name": "AMER CONSTELLATION",
   "type": 60,
-  "updated": "2026-11-24T01:15:59+00:00"
+  "updated": "2026-11-24T21:09:59+00:00"
  },
  "367765000": {
   "destination": "BELLINGHAM",
@@ -413,7 +439,7 @@
   "imo": 0,
   "name": "SEA BEAR",
   "type": 37,
-  "updated": "2026-11-23T13:40:53+00:00"
+  "updated": "2026-11-24T21:10:54+00:00"
  },
  "368004090": {
   "destination": "ANACORTES",
@@ -491,7 +517,7 @@
   "imo": 0,
   "name": "GALLIVANT",
   "type": 37,
-  "updated": "2026-11-22T22:52:55+00:00"
+  "updated": "2026-11-24T21:10:59+00:00"
  },
  "368199130": {
   "destination": "ANACORTES",
@@ -569,7 +595,7 @@
   "imo": 7809455,
   "name": "PATRICIA_LEE",
   "type": 30,
-  "updated": "2026-11-22T17:41:43+00:00"
+  "updated": "2026-11-24T21:11:43+00:00"
  },
  "369037000": {
   "destination": "ANACORTES, WA",
