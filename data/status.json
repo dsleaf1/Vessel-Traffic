@@ -1,13 +1,15 @@
 {
- "connection_problems": [],
+ "connection_problems": [
+  "attempt 1: TimeoutError: timed out during opening handshake"
+ ],
  "error": null,
- "last_run_utc": "2026-11-25T04:11:28Z",
+ "last_run_utc": "2026-11-25T14:36:04Z",
  "listen_seconds": 180,
- "messages": 64,
- "rows_saved": 19,
+ "messages": 52,
+ "rows_saved": 12,
  "vessels": {
-  "drop": 20,
-  "keep": 4,
-  "unknown": 15
+  "drop": 17,
+  "keep": 1,
+  "unknown": 11
  }
 }

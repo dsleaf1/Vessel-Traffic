@@ -179,7 +179,7 @@
   "imo": 8835360,
   "name": "WSF YAKIMA",
   "type": 0,
-  "updated": "2026-11-24T21:10:16+00:00"
+  "updated": "2026-11-25T14:40:18+00:00"
  },
  "366773090": {
   "destination": "",
@@ -257,7 +257,7 @@
   "imo": 0,
   "name": "DAVID B",
   "type": 60,
-  "updated": "2026-11-24T01:16:09+00:00"
+  "updated": "2026-11-25T14:40:05+00:00"
  },
  "367122990": {
   "destination": "JUNEAU",
@@ -270,7 +270,7 @@
   "imo": 0,
   "name": "CRANE",
   "type": 30,
-  "updated": "2026-11-24T11:07:36+00:00"
+  "updated": "2026-11-25T14:37:39+00:00"
  },
  "367124390": {
   "destination": "NEPUNE BEACH",
@@ -340,15 +340,15 @@
  "367434290": {
   "destination": "-",
   "dimension": {
-   "A": 8,
-   "B": 9,
+   "A": 9,
+   "B": 8,
    "C": 4,
    "D": 3
   },
   "imo": 0,
   "name": "ZEALOT",
   "type": 30,
-  "updated": "2026-11-22T09:57:11+00:00"
+  "updated": "2026-11-25T14:39:00+00:00"
  },
  "367463310": {
   "destination": "ANACORTES",
@@ -543,7 +543,7 @@
   "imo": 0,
   "name": "SAN JUAN CHARGER",
   "type": 0,
-  "updated": "2026-11-25T04:14:00+00:00"
+  "updated": "2026-11-25T14:37:59+00:00"
  },
  "368170760": {
   "destination": "AK",
@@ -699,7 +699,7 @@
   "imo": 9271119,
   "name": "COASTAL RELIANCE",
   "type": 89,
-  "updated": "2026-11-24T11:08:13+00:00"
+  "updated": "2026-11-25T14:38:17+00:00"
  },
  "563080300": {
   "destination": "USOTS",
