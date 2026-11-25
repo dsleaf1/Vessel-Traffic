@@ -116,6 +116,19 @@
   "type": 31,
   "updated": "2026-11-24T21:12:23+00:00"
  },
+ "366709770": {
+  "destination": "WSF_TERMINAL",
+  "dimension": {
+   "A": 21,
+   "B": 79,
+   "C": 14,
+   "D": 10
+  },
+  "imo": 7808140,
+  "name": "WSF CHELAN",
+  "type": 60,
+  "updated": "2026-11-25T04:12:35+00:00"
+ },
  "366710820": {
   "destination": "WSF TERMINAL",
   "dimension": {
@@ -220,6 +233,19 @@
   "type": 30,
   "updated": "2026-11-24T21:11:19+00:00"
  },
+ "367115000": {
+  "destination": "",
+  "dimension": {
+   "A": 9,
+   "B": 31,
+   "C": 7,
+   "D": 3
+  },
+  "imo": 9405394,
+  "name": "OSPREY",
+  "type": 52,
+  "updated": "2026-11-25T04:12:42+00:00"
+ },
  "367122330": {
   "destination": "US BLI",
   "dimension": {
@@ -296,7 +322,7 @@
   "imo": 641862500,
   "name": "WENDY SEAA",
   "type": 30,
-  "updated": "2026-11-22T22:55:03+00:00"
+  "updated": "2026-11-25T04:12:57+00:00"
  },
  "367389230": {
   "destination": "THE OTHER SIDE",
@@ -309,7 +335,7 @@
   "imo": 0,
   "name": "GUEMES",
   "type": 60,
-  "updated": "2026-11-24T11:08:29+00:00"
+  "updated": "2026-11-25T04:14:31+00:00"
  },
  "367434290": {
   "destination": "-",
@@ -374,7 +400,7 @@
   "imo": 9792785,
   "name": "BARRY SILVERTON",
   "type": 57,
-  "updated": "2026-11-24T01:16:42+00:00"
+  "updated": "2026-11-25T04:13:52+00:00"
  },
  "367705050": {
   "destination": "ANACORTES",
@@ -506,6 +532,19 @@
   "type": 31,
   "updated": "2026-11-22T17:43:07+00:00"
  },
+ "368113590": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 23,
+   "B": 4,
+   "C": 4,
+   "D": 4
+  },
+  "imo": 0,
+  "name": "SAN JUAN CHARGER",
+  "type": 0,
+  "updated": "2026-11-25T04:14:00+00:00"
+ },
  "368170760": {
   "destination": "AK",
   "dimension": {
@@ -530,7 +569,7 @@
   "imo": 0,
   "name": "DAYBREAK",
   "type": 37,
-  "updated": "2026-11-22T22:54:07+00:00"
+  "updated": "2026-11-25T04:12:07+00:00"
  },
  "368240710": {
   "destination": "ANACORTES",
@@ -556,7 +595,7 @@
   "imo": 0,
   "name": "DUTCHMAN",
   "type": 30,
-  "updated": "2026-11-24T11:07:07+00:00"
+  "updated": "2026-11-25T04:13:07+00:00"
  },
  "368414830": {
   "destination": "BELLINGHAM",
@@ -595,7 +634,7 @@
   "imo": 7809455,
   "name": "PATRICIA_LEE",
   "type": 30,
-  "updated": "2026-11-24T21:11:43+00:00"
+  "updated": "2026-11-25T04:11:43+00:00"
  },
  "369037000": {
   "destination": "ANACORTES, WA",
@@ -634,7 +673,7 @@
   "imo": 9272060,
   "name": "OCEAN GUARDIAN",
   "type": 0,
-  "updated": "2026-11-21T22:31:04+00:00"
+  "updated": "2026-11-25T04:13:05+00:00"
  },
  "369514000": {
   "destination": "SEATTLE",

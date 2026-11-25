@@ -1,13 +1,13 @@
 {
  "connection_problems": [],
  "error": null,
- "last_run_utc": "2026-11-24T21:09:21Z",
+ "last_run_utc": "2026-11-25T04:11:28Z",
  "listen_seconds": 180,
- "messages": 52,
- "rows_saved": 13,
+ "messages": 64,
+ "rows_saved": 19,
  "vessels": {
-  "drop": 13,
-  "keep": 5,
-  "unknown": 8
+  "drop": 20,
+  "keep": 4,
+  "unknown": 15
  }
 }
