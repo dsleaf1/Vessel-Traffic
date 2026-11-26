@@ -62,7 +62,7 @@
   "imo": 9492684,
   "name": "DUBLIN SEA",
   "type": 57,
-  "updated": "2026-11-24T21:10:47+00:00"
+  "updated": "2026-11-26T15:28:48+00:00"
  },
  "356696000": {
   "destination": "US FDT",
@@ -101,7 +101,7 @@
   "imo": 7308322,
   "name": "WESTWARD",
   "type": 30,
-  "updated": "2026-11-24T01:16:46+00:00"
+  "updated": "2026-11-26T15:28:50+00:00"
  },
  "366695810": {
   "destination": "LOCAL SHIFTS",
@@ -127,7 +127,7 @@
   "imo": 7808140,
   "name": "WSF CHELAN",
   "type": 60,
-  "updated": "2026-11-25T04:12:35+00:00"
+  "updated": "2026-11-26T15:29:47+00:00"
  },
  "366710820": {
   "destination": "WSF TERMINAL",
@@ -270,7 +270,7 @@
   "imo": 0,
   "name": "DAVID B",
   "type": 60,
-  "updated": "2026-11-26T05:16:07+00:00"
+  "updated": "2026-11-26T15:28:07+00:00"
  },
  "367122990": {
   "destination": "JUNEAU",
@@ -310,6 +310,19 @@
   "name": "COLUMBIA",
   "type": 60,
   "updated": "2026-11-24T21:11:10+00:00"
+ },
+ "367301480": {
+  "destination": "US^00K8>?? ???",
+  "dimension": {
+   "A": 15,
+   "B": 15,
+   "C": 8,
+   "D": 4
+  },
+  "imo": 9409924,
+  "name": "VALOR",
+  "type": 52,
+  "updated": "2026-11-26T15:29:40+00:00"
  },
  "367313160": {
   "destination": "ANACORTES",
@@ -374,7 +387,7 @@
   "imo": 0,
   "name": "ZORRO",
   "type": 37,
-  "updated": "2026-11-24T21:11:25+00:00"
+  "updated": "2026-11-26T15:29:29+00:00"
  },
  "367499470": {
   "destination": "ANACORTES",
@@ -387,7 +400,7 @@
   "imo": 0,
   "name": "SEA STAR 7",
   "type": 0,
-  "updated": "2026-11-22T17:41:41+00:00"
+  "updated": "2026-11-26T15:29:54+00:00"
  },
  "367585560": {
   "destination": "ANACORTES/CAP SANTE",
@@ -400,10 +413,10 @@
   "imo": 0,
   "name": "HENRY ISLAND",
   "type": 70,
-  "updated": "2026-11-23T13:40:42+00:00"
+  "updated": "2026-11-26T15:28:53+00:00"
  },
  "367677130": {
-  "destination": "US ANA",
+  "destination": "PORT ANGELES",
   "dimension": {
    "A": 132,
    "B": 21,
@@ -413,7 +426,7 @@
   "imo": 9792785,
   "name": "BARRY SILVERTON",
   "type": 57,
-  "updated": "2026-11-26T05:15:28+00:00"
+  "updated": "2026-11-26T15:29:48+00:00"
  },
  "367705050": {
   "destination": "ANACORTES",
@@ -452,7 +465,7 @@
   "imo": 9838333,
   "name": "AMER CONSTELLATION",
   "type": 60,
-  "updated": "2026-11-24T21:09:59+00:00"
+  "updated": "2026-11-26T15:27:59+00:00"
  },
  "367765000": {
   "destination": "BELLINGHAM",
@@ -465,7 +478,7 @@
   "imo": 0,
   "name": "ZENITH",
   "type": 30,
-  "updated": "2026-11-23T13:39:54+00:00"
+  "updated": "2026-11-26T15:27:59+00:00"
  },
  "367786240": {
   "destination": "ANACORTES",
@@ -595,7 +608,7 @@
   "imo": 0,
   "name": "DIVERTIMENTO",
   "type": 37,
-  "updated": "2026-11-23T13:41:09+00:00"
+  "updated": "2026-11-26T15:29:11+00:00"
  },
  "368321480": {
   "destination": "BELLINGHAM",
@@ -712,7 +725,7 @@
   "imo": 9271119,
   "name": "COASTAL RELIANCE",
   "type": 89,
-  "updated": "2026-11-26T05:14:19+00:00"
+  "updated": "2026-11-26T15:28:09+00:00"
  },
  "563080300": {
   "destination": "USOTS",
@@ -725,7 +738,7 @@
   "imo": 9859313,
   "name": "CD CALLAO",
   "type": 70,
-  "updated": "2026-11-26T05:16:28+00:00"
+  "updated": "2026-11-26T15:28:28+00:00"
  },
  "563269500": {
   "destination": "US OTS",
