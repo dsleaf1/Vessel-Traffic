@@ -75,7 +75,7 @@
   "imo": 9730878,
   "name": "CABO FUJI",
   "type": 80,
-  "updated": "2026-11-25T23:21:13+00:00"
+  "updated": "2026-11-26T05:15:14+00:00"
  },
  "366341000": {
   "destination": "US CLM",
@@ -140,7 +140,7 @@
   "imo": 7808152,
   "name": "WSF SEALTH",
   "type": 60,
-  "updated": "2026-11-22T02:17:24+00:00"
+  "updated": "2026-11-26T05:13:51+00:00"
  },
  "366767140": {
   "destination": "NORTH SOUND OPS",
@@ -193,6 +193,19 @@
   "name": "WSF TILLIKUM",
   "type": 60,
   "updated": "2026-11-23T03:36:27+00:00"
+ },
+ "366887970": {
+  "destination": "US^0U5P>0U5P",
+  "dimension": {
+   "A": 20,
+   "B": 21,
+   "C": 6,
+   "D": 6
+  },
+  "imo": 9139828,
+  "name": "PROTECTOR",
+  "type": 52,
+  "updated": "2026-11-26T05:16:36+00:00"
  },
  "366936650": {
   "destination": "SHELTER BAY",
@@ -257,7 +270,7 @@
   "imo": 0,
   "name": "DAVID B",
   "type": 60,
-  "updated": "2026-11-25T14:40:05+00:00"
+  "updated": "2026-11-26T05:16:07+00:00"
  },
  "367122990": {
   "destination": "JUNEAU",
@@ -335,7 +348,7 @@
   "imo": 0,
   "name": "GUEMES",
   "type": 60,
-  "updated": "2026-11-25T23:20:33+00:00"
+  "updated": "2026-11-26T05:14:30+00:00"
  },
  "367434290": {
   "destination": "-",
@@ -400,7 +413,7 @@
   "imo": 9792785,
   "name": "BARRY SILVERTON",
   "type": 57,
-  "updated": "2026-11-25T04:13:52+00:00"
+  "updated": "2026-11-26T05:15:28+00:00"
  },
  "367705050": {
   "destination": "ANACORTES",
@@ -699,7 +712,7 @@
   "imo": 9271119,
   "name": "COASTAL RELIANCE",
   "type": 89,
-  "updated": "2026-11-25T14:38:17+00:00"
+  "updated": "2026-11-26T05:14:19+00:00"
  },
  "563080300": {
   "destination": "USOTS",
@@ -712,7 +725,7 @@
   "imo": 9859313,
   "name": "CD CALLAO",
   "type": 70,
-  "updated": "2026-11-22T22:52:28+00:00"
+  "updated": "2026-11-26T05:16:28+00:00"
  },
  "563269500": {
   "destination": "US OTS",
