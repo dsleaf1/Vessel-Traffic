@@ -75,7 +75,7 @@
   "imo": 9730878,
   "name": "CABO FUJI",
   "type": 80,
-  "updated": "2026-11-26T05:15:14+00:00"
+  "updated": "2026-11-27T08:09:14+00:00"
  },
  "366341000": {
   "destination": "US CLM",
@@ -140,7 +140,7 @@
   "imo": 7808152,
   "name": "WSF SEALTH",
   "type": 60,
-  "updated": "2026-11-26T05:13:51+00:00"
+  "updated": "2026-11-27T08:07:53+00:00"
  },
  "366767140": {
   "destination": "NORTH SOUND OPS",
@@ -335,7 +335,7 @@
   "imo": 0,
   "name": "SAN JUAN ENTERPRISE",
   "type": 0,
-  "updated": "2026-11-27T00:00:49+00:00"
+  "updated": "2026-11-27T08:06:50+00:00"
  },
  "367347000": {
   "destination": "ANACORTES,WA",
@@ -361,7 +361,7 @@
   "imo": 0,
   "name": "GUEMES",
   "type": 60,
-  "updated": "2026-11-26T05:14:30+00:00"
+  "updated": "2026-11-27T08:08:35+00:00"
  },
  "367434290": {
   "destination": "-",
@@ -374,7 +374,7 @@
   "imo": 0,
   "name": "ZEALOT",
   "type": 30,
-  "updated": "2026-11-25T14:39:00+00:00"
+  "updated": "2026-11-27T08:09:07+00:00"
  },
  "367463310": {
   "destination": "ANACORTES",
@@ -504,7 +504,7 @@
   "imo": 0,
   "name": "NORDLAND II",
   "type": 69,
-  "updated": "2026-11-27T00:00:54+00:00"
+  "updated": "2026-11-27T08:07:02+00:00"
  },
  "368013040": {
   "destination": "ELLIOTT BAY",
@@ -609,6 +609,19 @@
   "name": "DIVERTIMENTO",
   "type": 37,
   "updated": "2026-11-26T15:29:11+00:00"
+ },
+ "368313260": {
+  "destination": "HOMER",
+  "dimension": {
+   "A": 28,
+   "B": 5,
+   "C": 4,
+   "D": 4
+  },
+  "imo": 0,
+  "name": "VALIANT",
+  "type": 30,
+  "updated": "2026-11-27T08:09:28+00:00"
  },
  "368321480": {
   "destination": "BELLINGHAM",
@@ -752,6 +765,19 @@
   "name": "JAL KALP",
   "type": 80,
   "updated": "2026-11-22T22:53:32+00:00"
+ },
+ "563345200": {
+  "destination": "US FDT",
+  "dimension": {
+   "A": 188,
+   "B": 42,
+   "C": 24,
+   "D": 13
+  },
+  "imo": 1071018,
+  "name": "AURORA BOREALIS",
+  "type": 80,
+  "updated": "2026-11-27T08:07:48+00:00"
  },
  "636093177": {
   "destination": "CAPRR>CAVAN",
