@@ -62,7 +62,7 @@
   "imo": 9492684,
   "name": "DUBLIN SEA",
   "type": 57,
-  "updated": "2026-11-26T15:28:48+00:00"
+  "updated": "2026-11-26T23:58:49+00:00"
  },
  "356696000": {
   "destination": "US FDT",
@@ -127,7 +127,7 @@
   "imo": 7808140,
   "name": "WSF CHELAN",
   "type": 60,
-  "updated": "2026-11-26T15:29:47+00:00"
+  "updated": "2026-11-27T00:00:33+00:00"
  },
  "366710820": {
   "destination": "WSF TERMINAL",
@@ -322,7 +322,7 @@
   "imo": 9409924,
   "name": "VALOR",
   "type": 52,
-  "updated": "2026-11-26T15:29:40+00:00"
+  "updated": "2026-11-26T23:59:20+00:00"
  },
  "367313160": {
   "destination": "ANACORTES",
@@ -335,7 +335,7 @@
   "imo": 0,
   "name": "SAN JUAN ENTERPRISE",
   "type": 0,
-  "updated": "2026-11-24T01:15:11+00:00"
+  "updated": "2026-11-27T00:00:49+00:00"
  },
  "367347000": {
   "destination": "ANACORTES,WA",
@@ -348,7 +348,7 @@
   "imo": 641862500,
   "name": "WENDY SEAA",
   "type": 30,
-  "updated": "2026-11-25T04:12:57+00:00"
+  "updated": "2026-11-27T00:01:06+00:00"
  },
  "367389230": {
   "destination": "THE OTHER SIDE",
@@ -491,7 +491,7 @@
   "imo": 0,
   "name": "SEA BEAR",
   "type": 37,
-  "updated": "2026-11-24T21:10:54+00:00"
+  "updated": "2026-11-26T23:58:56+00:00"
  },
  "368004090": {
   "destination": "ANACORTES",
@@ -504,7 +504,7 @@
   "imo": 0,
   "name": "NORDLAND II",
   "type": 69,
-  "updated": "2026-11-24T01:15:43+00:00"
+  "updated": "2026-11-27T00:00:54+00:00"
  },
  "368013040": {
   "destination": "ELLIOTT BAY",
@@ -595,7 +595,7 @@
   "imo": 0,
   "name": "DAYBREAK",
   "type": 37,
-  "updated": "2026-11-25T04:12:07+00:00"
+  "updated": "2026-11-27T00:00:10+00:00"
  },
  "368240710": {
   "destination": "ANACORTES",
@@ -621,7 +621,7 @@
   "imo": 0,
   "name": "DUTCHMAN",
   "type": 30,
-  "updated": "2026-11-25T04:13:07+00:00"
+  "updated": "2026-11-27T00:01:10+00:00"
  },
  "368414830": {
   "destination": "BELLINGHAM",
@@ -660,7 +660,7 @@
   "imo": 7809455,
   "name": "PATRICIA_LEE",
   "type": 30,
-  "updated": "2026-11-25T04:11:43+00:00"
+  "updated": "2026-11-26T23:59:42+00:00"
  },
  "369037000": {
   "destination": "ANACORTES, WA",
