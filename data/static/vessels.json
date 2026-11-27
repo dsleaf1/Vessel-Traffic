@@ -179,7 +179,7 @@
   "imo": 8835360,
   "name": "WSF YAKIMA",
   "type": 0,
-  "updated": "2026-11-25T14:40:18+00:00"
+  "updated": "2026-11-27T18:10:17+00:00"
  },
  "366773090": {
   "destination": "",
@@ -220,6 +220,19 @@
   "type": 37,
   "updated": "2026-11-22T17:42:06+00:00"
  },
+ "366973730": {
+  "destination": "PUGET SOUND OPS",
+  "dimension": {
+   "A": 4,
+   "B": 11,
+   "C": 3,
+   "D": 2
+  },
+  "imo": 0,
+  "name": "SIOUX ARROW",
+  "type": 53,
+  "updated": "2026-11-27T18:10:03+00:00"
+ },
  "366975190": {
   "destination": "ANACORTES",
   "dimension": {
@@ -233,6 +246,19 @@
   "type": 31,
   "updated": "2026-11-23T03:38:09+00:00"
  },
+ "366978710": {
+  "destination": "FERNDALE WA",
+  "dimension": {
+   "A": 15,
+   "B": 18,
+   "C": 6,
+   "D": 5
+  },
+  "imo": 9125750,
+  "name": "GYRFALCON",
+  "type": 22,
+  "updated": "2026-11-27T18:12:17+00:00"
+ },
  "367048390": {
   "destination": "PT TOWNSEND",
   "dimension": {
@@ -244,7 +270,7 @@
   "imo": 0,
   "name": "KARLUK",
   "type": 30,
-  "updated": "2026-11-24T21:11:19+00:00"
+  "updated": "2026-11-27T18:11:22+00:00"
  },
  "367115000": {
   "destination": "",
@@ -413,7 +439,7 @@
   "imo": 0,
   "name": "HENRY ISLAND",
   "type": 70,
-  "updated": "2026-11-26T15:28:53+00:00"
+  "updated": "2026-11-27T18:10:54+00:00"
  },
  "367677130": {
   "destination": "PORT ANGELES",
@@ -465,7 +491,7 @@
   "imo": 9838333,
   "name": "AMER CONSTELLATION",
   "type": 60,
-  "updated": "2026-11-26T15:27:59+00:00"
+  "updated": "2026-11-27T18:10:01+00:00"
  },
  "367765000": {
   "destination": "BELLINGHAM",
@@ -478,7 +504,7 @@
   "imo": 0,
   "name": "ZENITH",
   "type": 30,
-  "updated": "2026-11-26T15:27:59+00:00"
+  "updated": "2026-11-27T18:10:03+00:00"
  },
  "367786240": {
   "destination": "ANACORTES",
@@ -491,7 +517,7 @@
   "imo": 0,
   "name": "SEA BEAR",
   "type": 37,
-  "updated": "2026-11-26T23:58:56+00:00"
+  "updated": "2026-11-27T18:10:56+00:00"
  },
  "368004090": {
   "destination": "ANACORTES",
@@ -595,7 +621,7 @@
   "imo": 0,
   "name": "DAYBREAK",
   "type": 37,
-  "updated": "2026-11-27T00:00:10+00:00"
+  "updated": "2026-11-27T18:12:09+00:00"
  },
  "368240710": {
   "destination": "ANACORTES",
@@ -608,7 +634,20 @@
   "imo": 0,
   "name": "DIVERTIMENTO",
   "type": 37,
-  "updated": "2026-11-26T15:29:11+00:00"
+  "updated": "2026-11-27T18:11:12+00:00"
+ },
+ "368282930": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 11,
+   "B": 10,
+   "C": 5,
+   "D": 1
+  },
+  "imo": 0,
+  "name": "CHLOE",
+  "type": 37,
+  "updated": "2026-11-27T18:10:21+00:00"
  },
  "368313260": {
   "destination": "HOMER",
@@ -751,7 +790,7 @@
   "imo": 9859313,
   "name": "CD CALLAO",
   "type": 70,
-  "updated": "2026-11-26T15:28:28+00:00"
+  "updated": "2026-11-27T18:10:28+00:00"
  },
  "563269500": {
   "destination": "US OTS",
