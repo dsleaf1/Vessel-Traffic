@@ -101,7 +101,7 @@
   "imo": 7308322,
   "name": "WESTWARD",
   "type": 30,
-  "updated": "2026-11-28T01:28:53+00:00"
+  "updated": "2026-11-28T09:22:53+00:00"
  },
  "366695810": {
   "destination": "LOCAL SHIFTS",
@@ -127,7 +127,7 @@
   "imo": 7808140,
   "name": "WSF CHELAN",
   "type": 60,
-  "updated": "2026-11-27T00:00:33+00:00"
+  "updated": "2026-11-28T09:24:36+00:00"
  },
  "366710820": {
   "destination": "WSF TERMINAL",
@@ -257,7 +257,7 @@
   "imo": 9125750,
   "name": "GYRFALCON",
   "type": 22,
-  "updated": "2026-11-28T01:30:17+00:00"
+  "updated": "2026-11-28T09:24:23+00:00"
  },
  "367048390": {
   "destination": "PT TOWNSEND",
@@ -428,6 +428,19 @@
   "type": 0,
   "updated": "2026-11-28T01:29:56+00:00"
  },
+ "367573820": {
+  "destination": "SEATTLE WA",
+  "dimension": {
+   "A": 7,
+   "B": 24,
+   "C": 4,
+   "D": 6
+  },
+  "imo": 7047239,
+  "name": "OCEAN EAGLE",
+  "type": 52,
+  "updated": "2026-11-28T09:25:07+00:00"
+ },
  "367585560": {
   "destination": "ANACORTES/CAP SANTE",
   "dimension": {
@@ -517,7 +530,7 @@
   "imo": 0,
   "name": "SEA BEAR",
   "type": 37,
-  "updated": "2026-11-27T18:10:56+00:00"
+  "updated": "2026-11-28T09:22:57+00:00"
  },
  "368004090": {
   "destination": "ANACORTES",
@@ -608,7 +621,7 @@
   "imo": 0,
   "name": "GALLIVANT",
   "type": 37,
-  "updated": "2026-11-24T21:10:59+00:00"
+  "updated": "2026-11-28T09:23:07+00:00"
  },
  "368199130": {
   "destination": "ANACORTES",
@@ -621,7 +634,7 @@
   "imo": 0,
   "name": "DAYBREAK",
   "type": 37,
-  "updated": "2026-11-28T01:30:09+00:00"
+  "updated": "2026-11-28T09:24:10+00:00"
  },
  "368240710": {
   "destination": "ANACORTES",
@@ -634,7 +647,7 @@
   "imo": 0,
   "name": "DIVERTIMENTO",
   "type": 37,
-  "updated": "2026-11-27T18:11:12+00:00"
+  "updated": "2026-11-28T09:23:12+00:00"
  },
  "368282930": {
   "destination": "ANACORTES",
