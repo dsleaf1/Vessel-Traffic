@@ -64,6 +64,19 @@
   "type": 57,
   "updated": "2026-11-26T23:58:49+00:00"
  },
+ "352006397": {
+  "destination": "US CP4",
+  "dimension": {
+   "A": 152,
+   "B": 31,
+   "C": 9,
+   "D": 23
+  },
+  "imo": 1050997,
+  "name": "PIS BALI",
+  "type": 80,
+  "updated": "2026-11-28T17:45:26+00:00"
+ },
  "356696000": {
   "destination": "US FDT",
   "dimension": {
@@ -75,7 +88,7 @@
   "imo": 9730878,
   "name": "CABO FUJI",
   "type": 80,
-  "updated": "2026-11-27T08:09:14+00:00"
+  "updated": "2026-11-28T17:45:13+00:00"
  },
  "366341000": {
   "destination": "US CLM",
@@ -179,7 +192,7 @@
   "imo": 8835360,
   "name": "WSF YAKIMA",
   "type": 0,
-  "updated": "2026-11-27T18:10:17+00:00"
+  "updated": "2026-11-28T17:46:17+00:00"
  },
  "366773090": {
   "destination": "",
@@ -374,7 +387,20 @@
   "imo": 641862500,
   "name": "WENDY SEAA",
   "type": 30,
-  "updated": "2026-11-27T00:01:06+00:00"
+  "updated": "2026-11-28T17:45:55+00:00"
+ },
+ "367371840": {
+  "destination": "ANACORTES",
+  "dimension": {
+   "A": 6,
+   "B": 23,
+   "C": 2,
+   "D": 8
+  },
+  "imo": 9544231,
+  "name": "SEVERN",
+  "type": 31,
+  "updated": "2026-11-28T17:45:06+00:00"
  },
  "367389230": {
   "destination": "THE OTHER SIDE",
@@ -504,7 +530,7 @@
   "imo": 9838333,
   "name": "AMER CONSTELLATION",
   "type": 60,
-  "updated": "2026-11-28T01:28:01+00:00"
+  "updated": "2026-11-28T17:46:00+00:00"
  },
  "367765000": {
   "destination": "BELLINGHAM",
@@ -517,7 +543,7 @@
   "imo": 0,
   "name": "ZENITH",
   "type": 30,
-  "updated": "2026-11-27T18:10:03+00:00"
+  "updated": "2026-11-28T17:46:04+00:00"
  },
  "367786240": {
   "destination": "ANACORTES",
@@ -530,7 +556,7 @@
   "imo": 0,
   "name": "SEA BEAR",
   "type": 37,
-  "updated": "2026-11-28T09:22:57+00:00"
+  "updated": "2026-11-28T17:46:57+00:00"
  },
  "368004090": {
   "destination": "ANACORTES",
@@ -543,7 +569,7 @@
   "imo": 0,
   "name": "NORDLAND II",
   "type": 69,
-  "updated": "2026-11-27T08:07:02+00:00"
+  "updated": "2026-11-28T17:44:43+00:00"
  },
  "368013040": {
   "destination": "ELLIOTT BAY",
@@ -792,6 +818,32 @@
   "type": 89,
   "updated": "2026-11-26T15:28:09+00:00"
  },
+ "477212800": {
+  "destination": "USANC>USCPO",
+  "dimension": {
+   "A": 146,
+   "B": 37,
+   "C": 12,
+   "D": 20
+  },
+  "imo": 9901415,
+  "name": "ASPEN EXPRESS",
+  "type": 80,
+  "updated": "2026-11-28T17:46:19+00:00"
+ },
+ "477854600": {
+  "destination": "US OTS",
+  "dimension": {
+   "A": 147,
+   "B": 36,
+   "C": 25,
+   "D": 7
+  },
+  "imo": 9718894,
+  "name": "SILVER JOAN",
+  "type": 80,
+  "updated": "2026-11-28T17:45:40+00:00"
+ },
  "563080300": {
   "destination": "USOTS",
   "dimension": {
@@ -803,7 +855,7 @@
   "imo": 9859313,
   "name": "CD CALLAO",
   "type": 70,
-  "updated": "2026-11-27T18:10:28+00:00"
+  "updated": "2026-11-28T17:46:30+00:00"
  },
  "563269500": {
   "destination": "US OTS",
@@ -819,7 +871,7 @@
   "updated": "2026-11-22T22:53:32+00:00"
  },
  "563345200": {
-  "destination": "US FDT",
+  "destination": "",
   "dimension": {
    "A": 188,
    "B": 42,
@@ -829,7 +881,20 @@
   "imo": 1071018,
   "name": "AURORA BOREALIS",
   "type": 80,
-  "updated": "2026-11-27T08:07:48+00:00"
+  "updated": "2026-11-28T17:45:07+00:00"
+ },
+ "636024866": {
+  "destination": "CHERRY POINT",
+  "dimension": {
+   "A": 147,
+   "B": 36,
+   "C": 10,
+   "D": 22
+  },
+  "imo": 1075325,
+  "name": "CHAMPION TRADER",
+  "type": 80,
+  "updated": "2026-11-28T17:46:05+00:00"
  },
  "636093177": {
   "destination": "CAPRR>CAVAN",
